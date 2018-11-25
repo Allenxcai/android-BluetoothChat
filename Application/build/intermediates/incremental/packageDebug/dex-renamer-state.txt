@@ -1,0 +1,4 @@
+#Sun Nov 25 19:40:51 CST 2018
+base.0=E\:\\Android Program\\android-BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Android Program\\android-BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
